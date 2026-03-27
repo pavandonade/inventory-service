@@ -1,4 +1,4 @@
-insert into t_inventory(quantity, skuCode)
+insert into t_inventory(quantity, sku_code)
 values (100, 'Iphone_15'),
        (100, 'Pixel_10'),
        (100, 'Galaxy_S23'),
